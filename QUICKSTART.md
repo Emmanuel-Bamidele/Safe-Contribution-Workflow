@@ -11,7 +11,7 @@ It is for executing a known contribution with a clear scope and minimal side eff
 Want your agent to set this up for a contribution? Paste this into your coding agent: 
 
 ```text
-Download or read https://github.com/Emmanuel-Bamidele/Safe-Contribution-Workflow, copy the safe-contribution folder into this codebase, help me fill current-task.md for my known contribution, and ask whether to commit the folder or add it to .gitignore.
+Install Safe-Contribution-Workflow into this codebase from https://github.com/Emmanuel-Bamidele/Safe-Contribution-Workflow: download or clone the repository, copy the safe-contribution folder exactly as provided, do not rewrite the workflow files, help me fill current-task.md for my known contribution, and ask me whether to commit it or add safe-contribution/ to .gitignore.
 ```
 
 ---
