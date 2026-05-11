@@ -10,7 +10,9 @@ It is for executing a known contribution with a clear scope and minimal side eff
 
 Want your agent to set this up for a contribution? Paste this into your coding agent: 
 
-```Download or read https://github.com/Emmanuel-Bamidele/Safe-Contribution-Workflow, copy the safe-contribution folder into this codebase, help me fill current-task.md for my known contribution, and ask whether to commit the folder or add it to .gitignore.```
+```text
+Download or read https://github.com/Emmanuel-Bamidele/Safe-Contribution-Workflow, copy the safe-contribution folder into this codebase, help me fill current-task.md for my known contribution, and ask whether to commit the folder or add it to .gitignore.
+```
 
 ---
 
