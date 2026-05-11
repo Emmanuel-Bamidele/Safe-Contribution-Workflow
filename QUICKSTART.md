@@ -8,6 +8,8 @@ It is not for finding contribution ideas.
 
 It is for executing a known contribution with a clear scope and minimal side effects.
 
+Want your agent to set this up for a contribution? Paste this into your coding agent: `Download or read https://github.com/Emmanuel-Bamidele/Safe-Contribution-Workflow, copy the safe-contribution folder into this codebase, help me fill current-task.md for my known contribution, and ask whether to commit the folder or add it to .gitignore.`
+
 ---
 
 ## 1. Copy the workflow folder
